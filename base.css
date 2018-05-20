@@ -1,0 +1,5 @@
+*{ margin: 0; padding: 0}
+body{ background: #88D041}
+body ul li{ list-style-type: none}
+body a{ text-decoration: none}
+body a:hover{ color:#88D041; text-decoration: underline }

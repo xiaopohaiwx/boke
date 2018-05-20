@@ -1,0 +1,32 @@
+/* head css start */
+body .head{ height: 80px; background: #000}
+body .head .header{ width: 765px; height: 80px; line-height: 70px;margin: 0 auto;}
+body .head .header h1{ color: #88D041; float:left}
+body .head .header ul{float: right}
+body .head .header ul li{float: left; padding: 10px; line-height: 60px}
+/* head css end */
+
+/* 主体 css start */
+.main{ clear: both; width: 750px; background: #fff; margin: 10px auto; padding: 10px}
+.main div h2{ background: url(./header.gif); width: 710px; height: 180px; margin: 0 auto; line-height: 180px; padding-left: 10px}
+/* text css start */
+.main .text{ width: 530px;float: left; margin-top: 15px}
+.main .text div{margin-top: 10px}
+.main div h3{border-bottom: 1px solid #88D041; padding-bottom: 10px; margin-bottom: 10px}
+.main .text div p{ text-indent: 2em;line-height: 25px; margin-bottom: 10px}
+/* text css end */
+
+/* sidebar css start */
+.main .sidebar{ width: 200px;float: right; margin-top: 15px}
+.main .sidebar div{margin-top: 10px}
+.main .sidebar div ul li{line-height: 25px; }
+.main .sidebar div p{text-align: right}
+.main .sidebar form{margin-top: 10px}
+.main .sidebar form #keyword{width: 140px}
+/* sidebar css end */
+
+/* footer css start */
+.main .footer{clear: both; width: 750px; height: 50px; background: #4A4A48;}
+.main .footer p{line-height: 50px; text-align: center; color: #fff}
+/* footer css end */
+/* 主体 css end */
